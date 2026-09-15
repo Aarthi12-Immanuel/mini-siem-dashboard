@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+database/siem.db
+
+# Logs
+logs/system_logs.txt
+
+# Node
+frontend/node_modules/
+
+# Dataset (too large for GitHub)
+dataset/
